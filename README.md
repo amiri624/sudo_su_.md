@@ -13,7 +13,6 @@ vim (user name)
 ```bash
 (user name) ALL=(ALL) NOPASSWD:ALL
 ```
-
 #### save an back. 
 ```bash
 :wq

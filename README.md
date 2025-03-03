@@ -4,7 +4,6 @@
 ```bash
 cd /etc/sudoers.d/
 ```
-
 ### second step:
 #### create a file called our username.
 ```bash

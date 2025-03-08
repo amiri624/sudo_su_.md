@@ -11,7 +11,7 @@ vim (user name)
 ```
 #### write the following text exactly.
 ```bash
-(user name) ALL=(ALL) NOPASSWD:ALL
+meisam ALL=(ALL) NOPASSWD:ALL
 ```
 #### save an back. 
 ```bash

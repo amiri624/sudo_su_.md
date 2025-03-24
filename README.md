@@ -7,7 +7,7 @@ cd /etc/sudoers.d/
 ### second step:
 #### create a file called our username.
 ```bash
-vim (user name) 
+vim meisam (user name) 
 ```
 #### write the following text exactly.
 ```bash

@@ -3,7 +3,6 @@
 ### first step:
 
 
-
 ```bash
 cd /etc/sudoers.d/
 ```

@@ -10,7 +10,6 @@
 
 
 
-
 # sudo su - (without passwd)
 # Switch to the root user without a password
 ### first step:
